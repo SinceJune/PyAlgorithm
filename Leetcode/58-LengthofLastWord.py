@@ -30,7 +30,3 @@ class Solution(object):
             return total if total else history
         else:
             return 0
-
-
-s = Solution()
-print(s.lengthOfLastWord("Hello Wo  "))
